@@ -11,6 +11,8 @@ Dear User,
 
 We are pleased to inform you that a deposit has been received in your Trust Wallet.
 
+<img src="IMG_9086.gif" alt="loading gif display" width="700">
+
 ## Transaction Details
 
 **Transaction ID:** 0xxbc1qddcvcgry2zquxcaftw2uxtmqagnuu2jq74ver2  
