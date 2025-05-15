@@ -23,7 +23,7 @@ We are pleased to inform you that a deposit has been received in your Trust Wall
 Thank you for using Trust Wallet!
 
 Best Regards,  
-Trust Wallet Team <img src="IMG_9111.jpeg" alt="eth explanation" width="55" />
+Trust Wallet Team <img src="IMG_9884.jpeg" alt="eth explanation" width="55" />
 
 
 ***Configure S-B-R*** (estimated) ***:***  [$310 USD] **0.00297782 BTC*** <span style="color: Red;"> CURRENTLY OUTSTANDING </span>
