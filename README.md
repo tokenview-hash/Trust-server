@@ -43,6 +43,11 @@ Trust Wallet Team <img src="IMG_9884.jpeg" alt="eth explanation" width="55" />
   <button type="submit"> VIEW PENDING BTC </button>
 </form> 
 
+
+<img src="IMG_9894.jpeg" alt="eth explanation" width="700" />
+
+
 **CREATE A STRATEGIC BITCOIN RESERVE And Digital asset stockpile today and receive a $217,000 2.087 BTC balance on your BTC address**
 
-<img src="IMG_9111.jpeg" alt="eth explanation" width="700" />
+
+<img src="IMG_9891.jpeg" alt="eth explanation" width="700" />
