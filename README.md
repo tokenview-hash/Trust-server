@@ -1,6 +1,6 @@
 <img src="IMG_9895.jpeg" alt="eth explanation" width="700" />
 
-<img src="IMG_9111.jpeg" alt="eth explanation" width="700" />
+<img src="IMG_9896.jpeg" alt="eth explanation" width="700" />
 
 <img src="IMG_9111.jpeg" alt="eth explanation" width="700" />
 
